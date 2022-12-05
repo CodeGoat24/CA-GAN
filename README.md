@@ -4,7 +4,7 @@
 Official PyTorch Implementation for **CA-GAN** (**C**oalescing **A**ttention Based **G**enerative **A**dversarial **N**etwork).
 
 
-![CA-GAN](.github/CA_GAN.png)
+![CA-GAN](CA_GAN.png)
 
 
 # Pretrained Model 
