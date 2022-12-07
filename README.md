@@ -6,7 +6,7 @@ Official PyTorch Implementation for **CA-GAN** (**C**oalescing **A**ttention Bas
 **The whole kernel codes of CA-GAN will be completed here as soon as our paper is accepted.**
 
 
-![CA-GAN](CA_GAN.png)
+![CA-GAN](CA-GAN.png)
 
 
 # Pretrained Model 
