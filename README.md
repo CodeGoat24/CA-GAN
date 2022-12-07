@@ -35,14 +35,14 @@ We provide models for TERSE [[arXiv]](https://arxiv.org/abs/1904.05475), PlaceNe
       <td>PlaceNet</td>
       <td>37.01</td>
       <td>0.161</td>
-      <td><a href="链接：https://pan.baidu.com/s/19_NTr0JFBCFr_X18vYs_cA">baidu disk</a>&nbsp;(code: rap8)</td>
+      <td><a href="https://pan.baidu.com/s/19_NTr0JFBCFr_X18vYs_cA">baidu disk</a>&nbsp;(code: rap8)</td>
     </tr>
     <tr>
       <th>2</th>
       <td>GracoNet</td>
       <td>28.10</td>
       <td>0.207</td>
-      <td><a href="链接：https://pan.baidu.com/s/1PxzTB2PoN4FRDOd-HgR-Yg">baidu disk</a>&nbsp;(code: cayr)</td>
+      <td><a href="https://pan.baidu.com/s/1PxzTB2PoN4FRDOd-HgR-Yg">baidu disk</a>&nbsp;(code: cayr)</td>
     </tr>
     <tr>
       <th>3</th>
