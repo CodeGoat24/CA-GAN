@@ -138,7 +138,7 @@ To evaluate [LPIPS](https://github.com/richzhang/PerceptualSimilarity) score, ru
 ```
 sh script/eval_lpips.sh <YOUR_EXPERIMENT_NAME> <EPOCH_TO_EVALUATE>
 ```
-
+To evaluate the Accuracy score, please follow [GracoNet](https://github.com/bcmi/GracoNet-Object-Placement).
 
 
 
