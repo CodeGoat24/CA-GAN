@@ -4,7 +4,7 @@ Multi-scale Feature Polymerizer Aided Coalescing-attention for Object Placement
 Official PyTorch Implementation for **CA-GAN**.
 
 
-![CA-GAN](./CA-GAN.png)
+![CA-GAN](./model.png)
 
 
 # Pretrained Model 
