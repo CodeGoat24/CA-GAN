@@ -1,7 +1,7 @@
-**CA-GAN**: Object Placement Via Coalescing Attention Based Generative Adversarial Network
+Multi-scale Feature Polymerizer Aided Coalescing-attention for Object Placement
 ========
 
-Official PyTorch Implementation for **CA-GAN** (**C**oalescing **A**ttention Based **G**enerative **A**dversarial **N**etwork).
+Official PyTorch Implementation for **CA-GAN**.
 
 
 ![CA-GAN](./CA-GAN.png)
@@ -16,6 +16,7 @@ We provide models for TERSE [[arXiv]](https://arxiv.org/abs/1904.05475), PlaceNe
       <th></th>
       <th>method</th>
       <th>FID</th>
+      <th>ACC</th>
       <th>LPIPS</th>
       <th>url of model & logs</th>
     </tr>
@@ -25,6 +26,7 @@ We provide models for TERSE [[arXiv]](https://arxiv.org/abs/1904.05475), PlaceNe
       <th>0</th>
       <td>TERSE</td>
       <td>46.88</td>
+      <td>68.8%</td>
       <td>0</td>
       <td><a href="https://pan.baidu.com/s/1muuU17NtCu_O_9L8slHgMw">baidu disk</a>&nbsp;(code: zkk8)</td>
     </tr>
@@ -32,6 +34,7 @@ We provide models for TERSE [[arXiv]](https://arxiv.org/abs/1904.05475), PlaceNe
       <th>1</th>
       <td>PlaceNet</td>
       <td>37.01</td>
+      <td>69.2%</td>
       <td>0.161</td>
       <td><a href="https://pan.baidu.com/s/19_NTr0JFBCFr_X18vYs_cA">baidu disk</a>&nbsp;(code: rap8)</td>
     </tr>
@@ -39,6 +42,7 @@ We provide models for TERSE [[arXiv]](https://arxiv.org/abs/1904.05475), PlaceNe
       <th>2</th>
       <td>GracoNet</td>
       <td>28.10</td>
+      <td>82.9%</td>
       <td>0.207</td>
       <td><a href="https://pan.baidu.com/s/1PxzTB2PoN4FRDOd-HgR-Yg">baidu disk</a>&nbsp;(code: cayr)</td>
     </tr>
@@ -46,6 +50,7 @@ We provide models for TERSE [[arXiv]](https://arxiv.org/abs/1904.05475), PlaceNe
       <th>3</th>
       <td>CA-GAN</td>
       <td>23.21</td>
+      <td>86.7%</td>
       <td>0.270</td>
       <td><a href="https://pan.baidu.com/s/1wns3EO3pwnZdh-vhFJ3rkA">baidu disk</a>&nbsp;(code: 90yf)</td>
     </tr>
