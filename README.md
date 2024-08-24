@@ -2,7 +2,7 @@
 <h1> CA-GAN: Object Placement via Coalescing Attention based Generative Adversarial Network</h1>
 
 
-[Yibin Wang](https://codegoat24.github.io)\*, Yuchao Feng, Jie Wu, Honghui Xu, [Jianwei Zheng](https://zhengjianwei2.github.io/)&#8224;
+[Yibin Wang](https://codegoat24.github.io), Yuchao Feng, Jie Wu, Honghui Xu, [Jianwei Zheng](https://zhengjianwei2.github.io/)&#8224;
 
 (&#8224;corresponding author)
 
